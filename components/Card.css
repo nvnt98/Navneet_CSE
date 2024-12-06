@@ -1,0 +1,12 @@
+.card{
+    background-color: antiquewhite;
+    border: 2px solid blueviolet;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+}
+img{
+    width: 150px;
+}
